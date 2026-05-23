@@ -43,7 +43,7 @@ A responsive technical reference page documenting fundamental Java concepts incl
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/java-documentation-page.git
+git clone https://github.com/EC-Prime/java-documentation-page.git
 cd java-documentation-page
 open index.html
 ```
